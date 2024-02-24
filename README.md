@@ -1,4 +1,4 @@
-
+# This is a test to see if Git has been setup 
 # ETL Client for Solar and Wind Data
 
 This project implements an ETL (Extract, Transform, Load) client in Python3 that interacts with a sensor API data source to extract data from the Solar and Wind endpoints, transform the data, and load it into an output directory.
